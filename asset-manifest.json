@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adsensu/static/css/main.1c141381.css",
+    "main.js": "/adsensu/static/js/main.a2bff336.js",
+    "static/js/787.81dc7098.chunk.js": "/adsensu/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/adsensu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adsensu/index.html",
+    "main.1c141381.css.map": "/adsensu/static/css/main.1c141381.css.map",
+    "main.a2bff336.js.map": "/adsensu/static/js/main.a2bff336.js.map",
+    "787.81dc7098.chunk.js.map": "/adsensu/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c141381.css",
+    "static/js/main.a2bff336.js"
+  ]
+}
